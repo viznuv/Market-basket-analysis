@@ -38,5 +38,5 @@ This repository contains a Python script designed to analyze transaction data fr
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/market-basket-analysis.git
+   git clone https://github.com/viznuv/market-basket-analysis.git
    cd market-basket-analysis
